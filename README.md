@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lipe1995
 - 👀 I’m interested in front-end and machine learning
-- 🌱 I’m currently learning HTML, CSS, JavaScript, VueJS, Bootresp CSS
+- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, ReactJS and NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
